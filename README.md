@@ -1,16 +1,16 @@
- Library Management System 
+## Library Management System 
 
- Overview
+## Overview
 
 Developed a Library Management System using Python in Jupyter Notebook to simulate core library operations. This project focuses on applying fundamental programming concepts, data handling, and logical flow control in a practical use case.
 
- Key Highlights
+ ## Key Highlights
 
 * Designed and implemented core library functionalities using Python
 * Applied conditional logic, loops, and data structures effectively
 * Built a modular and easy-to-understand workflow suitable for beginners
 
- Features
+## Features
 
 * Add and manage book records
 * Display available books
